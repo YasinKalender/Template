@@ -1,2 +1,2 @@
 # Template
- Html,Css and Javascript use to make Template. Html,Css and Javascript write myselff
+Html,Css,Javascript and Reponsive Design use to make Template. Html,Css,Javascript and Reponsive Design write myself.
